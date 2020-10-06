@@ -1,0 +1,9 @@
+.personagem-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.nome {
+    font-size: 18px;
+    font-weight: bold;
+}
